@@ -1,5 +1,7 @@
 <h1>Telegram Bot "kittens every day"</h1>
 
+This telegram bot sends random cat pics using thecatapi.com
+
 **To launch create virtual environment:**
 ```python
 python -m venv venv
